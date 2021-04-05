@@ -3,7 +3,7 @@
 
 <!-- ### Hi there 👋 Sam here :smile:-->
 
-![](https://media4.giphy.com/media/fU4elxKlRsulB4Jy7w/200.gif)
+![](https://i.pinimg.com/originals/5e/78/af/5e78affab2547d678e4c5458dd931381.gif)
 
 [![Sam-Varghese's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sam-Varghese&theme=react-dark)](https://github.com/Sam-Varghese/github-readme-activity-graph)
 
@@ -15,8 +15,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a student
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently a school going student
+- 🌱 I’m currently learning everything that my old laptop can support
 - 👯 I’m looking to collaborate with everybody
-- 📫 How to reach me: ![email](varghese.sam.sica@gmail.com)
+- 📫 How to reach me: <varghese.sam.sica@gmail.com>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
