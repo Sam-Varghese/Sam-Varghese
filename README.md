@@ -54,7 +54,7 @@
 
 <br>
 
-![](https://i.pinimg.com/originals/7c/3b/63/7c3b63598dc8b65b93a9532d4228947b.gif)
+<p align='center'><img src='https://i.pinimg.com/originals/7c/3b/63/7c3b63598dc8b65b93a9532d4228947b.gif' height='250' width='400'></p>
 
 <br>
 
