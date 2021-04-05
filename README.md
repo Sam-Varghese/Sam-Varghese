@@ -43,3 +43,19 @@
 <br>
 
 <hr>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Varghese&theme=radical)](https://github.com/Sam-Varghese/github-readme-stats)
+
+<br>
+
+<hr>
+
+<br>
+
+![](https://i.pinimg.com/originals/7c/3b/63/7c3b63598dc8b65b93a9532d4228947b.gif)
+
+<br>
+
+<hr>
