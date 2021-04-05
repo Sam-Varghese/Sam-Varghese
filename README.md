@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with everybody
-- 📫 How to reach me: [email](varghese.sam.sica@gmail.com)
+- 📫 How to reach me: ![email](varghese.sam.sica@gmail.com)
 
