@@ -57,6 +57,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Varghese&theme=radical)](https://github.com/Sam-Varghese/github-readme-stats)
 
+
+
+<br>
+
+<hr>
+
+<br>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sam-Varghese&theme=radical)](https://github.com/Sam-Varghese/github-readme-stats)
+
 <br>
 
 <hr>
