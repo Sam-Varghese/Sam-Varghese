@@ -65,7 +65,107 @@
 
 <br>
 
-<img src='https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/339869c4-d56f-4628-9af0-93b84b9c3b55.svg' height='250' width='400'>
+# My Coding Activity
+
+<br>
+
+<img src='https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/339869c4-d56f-4628-9af0-93b84b9c3b55.svg' height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# My Coding Languages
+
+<br>
+
+<img src='https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/ecf24c5e-6a6f-4ad2-96db-786ed6f6f6c1.svg' height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# My Coding Languages (Bar Graph)
+
+<br>
+
+<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/b1c4406d-f6d6-4b6e-993b-9f29b2580ffa.svg" height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# My Mostly Used Editors
+
+<br>
+
+<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/15bb073e-a611-4a3f-9248-fc8490082206.svg" height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# My Mostly Used Editors (bar)
+
+<br>
+
+<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/fcb915c5-bf72-406b-ab49-15af69ef8f85.svg" height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# My Mostly Used Operating Systems
+
+<br>
+
+<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/70319600-2a88-4dd4-836a-df74f6687ac7.svg" height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# My Mostly Used Operating Systems( bar )
+
+<br>
+
+<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/f93615d0-5f69-4b4c-9385-83f4adf9ca66.svg" height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# Categories
+
+<br>
+
+<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/f93615d0-5f69-4b4c-9385-83f4adf9ca66.svg" height='400' width='400'>
+
+<br>
+
+<hr>
+
+<br>
+
+# Categories (bar)
+
+<br>
+
+<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/f93615d0-5f69-4b4c-9385-83f4adf9ca66.svg" height='400' width='400'>
 
 <br>
 
