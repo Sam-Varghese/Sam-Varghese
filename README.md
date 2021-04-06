@@ -36,11 +36,7 @@
 
 <p align='center'> 
 
-<br>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Varghese&count_private=true&show_icons=true&theme=radical)](https://github.com/Sam-Varghese/github-readme-stats)
-
-<br>
 
 </p>
 
