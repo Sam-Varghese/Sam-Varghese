@@ -65,7 +65,7 @@
 
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sam-Varghese&theme=radical)](https://github.com/Sam-Varghese/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/0c41388a-ccae-48a5-9160-aefca1ae8d5e.svg"></embed></figure>
 
 <br>
 
