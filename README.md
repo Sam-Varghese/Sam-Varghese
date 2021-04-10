@@ -107,17 +107,7 @@
 
 <img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/1f96827b-49c9-4b39-99ac-2124cdd77eb9.svg" height='400' width='400'>
 
-<br>
 
-<hr>
-
-<br>
-
-# My Mostly Used Editors (bar)
-
-<br>
-
-<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/05ca73cd-4d49-403c-aac3-13fca732995a.svg" height='400' width='400'>
 
 <br>
 
@@ -137,35 +127,12 @@
 
 <br>
 
-# My Mostly Used Operating Systems( bar )
-
-<br>
-
-<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/8589ed44-5d9a-47cb-9cf5-3efa2c3449a8.svg" height='400' width='400'>
-
-<br>
-
-<hr>
-
-<br>
 
 # Categories
 
 <br>
 
 <img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/2855e872-1a45-4e0a-aaaf-a370d705e7f6.svg" height='400' width='400'>
-
-<br>
-
-<hr>
-
-<br>
-
-# Categories (bar)
-
-<br>
-
-<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/7320883e-e81d-458e-940e-c4ea50ee2bd9.svg" height='400' width='400'>
 
 <br>
 
