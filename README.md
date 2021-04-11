@@ -34,8 +34,6 @@
 
 # Tech I'm familiar with
 
-<br>
-
 <hr>
 
 
