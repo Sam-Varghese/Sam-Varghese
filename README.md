@@ -9,6 +9,10 @@
 
 <hr>
 
+![](https://komarev.com/ghpvc/?username=Sam-Varghese&color=green&style=plastic)
+
+<hr>
+
 <br>
 
 [![Sam-Varghese's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sam-Varghese&theme=react-dark)](https://github.com/Sam-Varghese/github-readme-activity-graph)
