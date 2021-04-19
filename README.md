@@ -44,6 +44,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -145,19 +146,6 @@
 <br>
 
 <img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/339f8408-af1d-40b0-89b3-5f62d4bee3da.svg" height='400' width='400'>
-
-<br>
-
-<hr>
-
-<br>
-
-
-# Categories
-
-<br>
-
-<img src="https://wakatime.com/share/@853ca7eb-b489-4cc2-803d-e8a1a75bfd5a/2855e872-1a45-4e0a-aaaf-a370d705e7f6.svg" height='400' width='400'>
 
 <br>
 
