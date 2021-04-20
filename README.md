@@ -73,6 +73,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Varghese&count_private=true&show_icons=true&theme=radical)](https://github.com/Sam-Varghese/github-readme-stats)
 
+<br>
+
+<hr>
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical)](https://git.io/streak-stats)
+
 </p>
 
 <br>
