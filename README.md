@@ -28,7 +28,7 @@
 <hr>
 
 - 🔭 I’m currently a school going student
-- 🌱 I’m currently learning everything that my old laptop can support
+- 🌱 I’m currently learning C, C++, Javascript
 - 👯 I’m looking to collaborate with everybody
 - 📫 How to reach me: <varghese.sam.sica@gmail.com>
 
