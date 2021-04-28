@@ -120,14 +120,10 @@
     <td colspan="3"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical"></p></td>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical"></p></td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical"></p></td>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg"></p></td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg"></p></td>
 </tr>
 <tr>
     <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg"></p></td>
