@@ -8,6 +8,9 @@
 
 <p align="center"><p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat gif" width="50%"</p>
 
+<p align="center"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sam-Varghese&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A
+">
+
 <hr>
 
 <table width="100%" align="center">
