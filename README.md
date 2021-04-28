@@ -12,7 +12,7 @@
 
 <table width="100%" align="center">
 <tr>
-    <th colspan="3" ><h1 align="center">🖥️Tech I Have Come Across🖥️</h1></th>
+    <th colspan="3" ><h1 align="center" ><font color="yellow">🖥️Tech I Have Come Across🖥️</font></h1></th>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Programming Languages</h2></th>
