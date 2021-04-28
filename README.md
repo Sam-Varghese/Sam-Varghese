@@ -133,6 +133,9 @@
 <tr>
     <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
 </tr>
+<tr>
+    <td colspan="3"><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Sam-Varghese&theme=react-dark"></p></td>
+</tr>
 </table>
 
 <hr>
