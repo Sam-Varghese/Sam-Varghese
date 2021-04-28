@@ -6,6 +6,26 @@
 
 <hr>
 
+<table width="100%" align="center">
+<tr>
+    <td><p align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="EMail"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></p></td>
+</tr>
+<tr>
+    <td><p align="center"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></p></td>
+</tr>
+<tr>
+    <td><p align="center"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></p></td>
+</tr>
+</table>
+
+<hr>
+
 <p align="center"><p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat gif" width="50%"</p>
 
 <p align="center"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sam-Varghese&repo=Sam-Varghese&countColorcountColor&countColor=%237B1E7A">
