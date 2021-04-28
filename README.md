@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif">Welcome</h1>
 
 <hr>
 
@@ -102,8 +102,25 @@
 
 <hr>
 
-<table width="100%">
+<table width="100%" align="center">
 
 <tr>
-    <th colspan="3">Tech I Have Come Across</th>
+    <th colspan="3"><h1 align="center">My GitHub Stats</h1></th>
 </tr>
+<tr>
+    <td></td>
+    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg"></p></td>
+    <td></td>
+</tr>
+<tr>
+    <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg"></p></td>
+    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/3-stats.svg"></p></td>
+    <td><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg"></p></td>
+</tr>
+<tr>
+    <td></td>
+    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
+    <td></td>
+</tr>
+
+<hr>
