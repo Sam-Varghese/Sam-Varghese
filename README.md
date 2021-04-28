@@ -117,9 +117,7 @@
     <th colspan="3"><h1 align="center">My GitHub Stats</h1></th>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical"></p></td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical"></p></td>
 </tr>
 <tr>
     <td></td>
@@ -137,9 +135,7 @@
     <td><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg"></p></td>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
 </tr>
 </table>
 
