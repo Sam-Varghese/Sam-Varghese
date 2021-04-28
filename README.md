@@ -1,12 +1,12 @@
-<p align="center"><img src="https://media2.giphy.com/media/ZBcQSJCl5hrxIcLLQT/giphy.gif"></p>
+<p align="center"><img src="https://media2.giphy.com/media/ZBcQSJCl5hrxIcLLQT/giphy.gif" alt="Spiderman hi gif"></p>
 
 <hr>
 
-<p align="center"><p align="center"><img src="Documents/Capture.PNG" alt="Profile picture" width="50%"></p>
+<p align="center"><p align="center"><img src="Documents/Capture.PNG" alt="My profile picture" width="50%"></p>
 
 <hr>
 
-<p align="center"><p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Welcome gif" width="50%"</p>
+<p align="center"><p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat gif" width="50%"</p>
 
 <hr>
 
@@ -18,13 +18,13 @@
     <th colspan="3"><h2 align="center">Programming Languages</h2></th>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" width="190"></p></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" width="190"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" width="190" alt="Python badge"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" width="190" alt="JavaScript badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="190" alt="HTML badge"></p</td>
 </tr>
 <tr>
     <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" width="190" alt="CSS3 badge"></p</td>
     <td></td>
 </tr>
 <tr>
@@ -32,14 +32,14 @@
 </tr>
 <tr>
     <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="40" width="190" alt="MySQL badge"></p</td>
     <td></td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Frameworks</h2></th>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="40" width="190" alt="Jupyter badge"></p</td>
     <td><p align="center"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="40" width="190"></p</td>
     <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="190"></p</td>
 </tr>
