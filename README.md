@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media2.giphy.com/media/ZBcQSJCl5hrxIcLLQT/giphy.gif" alt="Spiderman hi gif"></p>
+<p align="center"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="Spiderman hi gif"></p>
 
 <hr>
 
@@ -41,10 +41,10 @@
 <tr>
     <td><p align="center"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="40" width="190" alt="Jupyter badge"></p</td>
     <td><p align="center"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="40" width="190"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="190" alt="HTML5 badge"></p</td>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" height="40" width="190" alt="Microsoft badge"></p</td>
     <td><p align="center"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="40" width="190"></p</td>
     <td><p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" width="190"></p</td>
 </tr>
