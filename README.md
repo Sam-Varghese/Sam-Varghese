@@ -12,7 +12,7 @@
 
 <table width="100%" align="center">
 <tr>
-    <th colspan="3" ><h1 align="center">Tech I Have Come Across</h1></th>
+    <th colspan="3" ><h1 align="center">🖥️Tech I Have Come Across🖥️</h1></th>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Programming Languages</h2></th>
@@ -89,7 +89,7 @@
 
 <hr>
 
-<h1 align="center">About Myself</h1>
+<h1 align="center">👋About Myself👋</h1>
 
 <hr>
 
@@ -99,6 +99,14 @@
 - I like 💻coding, and devloping new programs which can be of use to people.
 - Currently I am exploring the field of **Web Devlopment**😎.
 - I am looking forward to work with all **coding enthusiasts**.
+
+<hr>
+
+<h1 align="center">🏆 My Achievements 🏆</h1>
+
+<hr>
+
+- Cleared <a href="https://www.quora.com/How-can-I-pass-98-381-braindumps">Microsoft 98-381</a> exam. (<a href="Documents\Microsoft_Certified_Professional_Certificate_0.pdf">Certificate</a>, <a href="Documents\microsoft_certified_professional_transcript.pdf">Transcript</a>).
 
 <hr>
 
