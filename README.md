@@ -12,19 +12,19 @@
 
 <table width="100%" align="center">
 <tr>
-    <th colspan="3" ><h1 align="center" ><font color="yellow">🖥️Tech I Have Come Across🖥️</font></h1></th>
+    <th colspan="3" ><h1 align="center" >🖥️Tech I Have Come Across🖥️</h1></th>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Programming Languages</h2></th>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" width="190" alt="Python badge"></p></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" width="190" alt="JavaScript badge"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="190" alt="HTML badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python badge"></p></td>
+    <td><p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="JavaScript badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML badge"></p</td>
 </tr>
 <tr>
     <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" width="190" alt="CSS3 badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 badge"></p</td>
     <td></td>
 </tr>
 <tr>
@@ -32,28 +32,28 @@
 </tr>
 <tr>
     <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="40" width="190" alt="MySQL badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL badge"></p</td>
     <td></td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Frameworks</h2></th>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="40" width="190" alt="Jupyter badge"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="40" width="190"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="190" alt="HTML5 badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="Jupyter badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" ></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 badge"></p</td>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" height="40" width="190" alt="Microsoft badge"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="40" width="190"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"  alt="Microsoft badge"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" ></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" ></p</td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Cloud</h2></th>
 </tr>
 <tr>
     <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" ></p</td>
     <td></td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@
 </tr>
 <tr>
     <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" ></p</td>
     <td></td>
 </tr>
 <tr>
@@ -69,21 +69,21 @@
 </tr>
 <tr>
     <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" ></p</td>
     <td></td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Office</h2></th>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" width="190"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" height="40" width="190"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="40" width="190"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" ></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" ></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" ></p</td>
 </tr>
 <tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="40" width="230"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" height="40" width="230"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="40" width="230"></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" ></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" ></p</td>
+    <td><p align="center"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" ></p</td>
 </tr>
 </table>
 
@@ -107,6 +107,7 @@
 <hr>
 
 - Cleared <a href="https://www.quora.com/How-can-I-pass-98-381-braindumps">Microsoft 98-381</a> exam. (<a href="Documents\Microsoft_Certified_Professional_Certificate_0.pdf">Certificate</a>, <a href="Documents\microsoft_certified_professional_transcript.pdf">Transcript</a>).
+- _Comming Soon..._
 
 <hr>
 
@@ -118,6 +119,11 @@
 <tr>
     <td></td>
     <td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical"></p></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical"></p></td>
     <td></td>
 </tr>
 <tr>
