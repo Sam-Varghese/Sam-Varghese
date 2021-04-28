@@ -1,3 +1,7 @@
+<h1 align="center"><i>Welcome</i></h1>
+
+<hr>
+
 <p align="center"><p align="center"><img src="Documents/Capture.PNG" alt="Profile picture" width="50%"></p>
 
 <hr>
