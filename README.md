@@ -141,5 +141,12 @@
     <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
     <td></td>
 </tr>
+</table>
 
 <hr>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<hr>
+
+<p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400"></p>
