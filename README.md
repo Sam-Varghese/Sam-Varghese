@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif">Welcome</h1>
+<p align="center"><img src="https://media2.giphy.com/media/ZBcQSJCl5hrxIcLLQT/giphy.gif"></p>
 
 <hr>
 
