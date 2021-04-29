@@ -129,15 +129,10 @@
 </tr>
 <tr>
     <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg"></p></td>
-    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/3-stats.svg"></p></td>
+    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
     <td><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg"></p></td>
 </tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Sam-Varghese&theme=github"></p></td>
-</tr>
+
 </table>
 
 <hr>
