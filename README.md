@@ -121,6 +121,7 @@
     <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" ></p</td>
     <td><p align="center"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" ></p</td>
 </tr>
+
 </table>
 
 <hr>
