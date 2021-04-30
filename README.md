@@ -34,7 +34,7 @@
 <table width="100%">
 
 <tr>
-    <th colspan="3"><h1 align="center">My GitHub Stats</h1></th>
+    <th colspan="3"><h1 align="center">My GitHub Stats<img src="Assets/Designer.gif" width="100px"></h1></th>
 </tr>
 <tr>
     <td colspan="3"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"></p></td>
