@@ -53,7 +53,9 @@
     <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Commits per day hour"></p></td>
     <td><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits"></p></td>
 </tr>
-
+<tr>
+    <td colspan="3"><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Sam-Varghese&theme=react-dark" alt="Activity Graph"></p></td>
+</tr>
 </table>
 
 <hr>
@@ -134,3 +136,5 @@
 <hr>
 
 <p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400" alt="groot bye bye gif"></p>
+
+<hr>
