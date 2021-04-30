@@ -37,6 +37,9 @@
     <th colspan="3"><h1 align="center"><img src="Assets/Designer.gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" width="100px"></h1></th>
 </tr>
 <tr>
+    <td colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
+</tr>
+<tr>
     <td colspan="3"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"></p></td>
 </tr>
 <tr>
