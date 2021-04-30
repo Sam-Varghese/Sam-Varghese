@@ -37,16 +37,16 @@
     <th colspan="3"><h1 align="center"><img src="Assets/Designer.gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" width="100px"></h1></th>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"><img height="150" width="175" src="Documents/right.png"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="175" src="Documents/right.png"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"><img height="150" width="175" src="Documents/right.png"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"><img height="150" width="150" src="Documents/right.png"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Summary Card"><img height="150" width="175" src="Documents/right.png"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Summary Card"><img height="150" width="150" src="Documents/right.png"></p></td>
 </tr>
 <tr>
     <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p></td>
