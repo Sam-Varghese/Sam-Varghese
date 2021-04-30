@@ -131,7 +131,7 @@
 
 <hr>
 
-<table width="100%">
+<table align="center">
 <tr>
     <th colspan="3"><h1 align="center">Contact Through</h1></th>
 </tr>
