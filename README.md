@@ -69,17 +69,13 @@
     <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML badge"></p</td>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 badge"></p</td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 badge"></p</td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Databases</h2></th>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL badge"></p</td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL badge"></p</td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Frameworks</h2></th>
@@ -98,25 +94,19 @@
     <th colspan="3"><h2 align="center">Cloud</h2></th>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" ></p</td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" ></p</td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">OS</h2></th>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" ></p</td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" ></p</td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">IDE</h2></th>
 </tr>
 <tr>
-    <td></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" ></p</td>
-    <td></td>
+    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" ></p</td>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Office</h2></th>
