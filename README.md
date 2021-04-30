@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"></p>
+<p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"><img height="150" width="175" src="Documents/right.png"></p>
 
 <hr>
 
@@ -37,16 +37,16 @@
     <th colspan="3"><h1 align="center"><img src="Assets/Designer.gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" width="100px"></h1></th>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"><img height="150" width="175" src="Documents/right.png"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="175" src="Documents/right.png"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"><img height="150" width="175" src="Documents/right.png"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Summary Card"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Summary Card"><img height="150" width="175" src="Documents/right.png"></p></td>
 </tr>
 <tr>
     <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p></td>
@@ -134,3 +134,5 @@
 <hr>
 
 <p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400" alt="groot bye bye gif"></p>
+
+<img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/fd4b7227deb50cda70aa674c1af67aee86b8a52f/left.png" alt="Image">
