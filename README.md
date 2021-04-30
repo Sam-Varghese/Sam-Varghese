@@ -31,7 +31,7 @@
 
 <hr>
 
-<table width="100%" align="center">
+<table width="100%">
 
 <tr>
     <th colspan="3"><h1 align="center">My GitHub Stats</h1></th>
@@ -55,7 +55,7 @@
 
 <hr>
 
-<table width="100%" align="center">
+<table width="100%">
 <tr>
     <th colspan="3" ><h1 align="center" >🖥️Tech I Have Come Across🖥️</h1></th>
 </tr>
