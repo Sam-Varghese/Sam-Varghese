@@ -131,6 +131,18 @@
 
 <hr>
 
+<table width="100%">
+<tr>
+    <th colspan="3"><h1 align="center">Contact Through</h1></th>
+</tr>
+<tr>
+    <td><p align="center"><a href="mailto:sam.varghese.sica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p></td>
+    <td><p align="center"><a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p></td>
+</tr>
+</table>
+
+<hr>
+
 <img height="120" alt="Thanks for visiting me gif" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <hr>
