@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="Spiderman hi gif"></p>
+<p align="center"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"></p>
 
 <hr>
 
@@ -8,7 +8,50 @@
 
 <p align="center"><p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat gif" width="50%"</p>
 
-<p align="center"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sam-Varghese&repo=Sam-Varghese&countColorcountColor&countColor=%237B1E7A">
+<hr>
+
+<h1 align="center">👋About Myself👋</h1>
+
+<hr>
+
+- Hi🙋‍♂️, myself **Sam Varghese**, happy to have you here in my profile page🙏.
+- I am from 🌏<a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**India, MP, Indore**</a>
+- Presently I am a 🏫<a href="https://www.google.com/search?q=sica%20school&rlz=1C1CHBD_enIN950IN950&oq=sica+&aqs=chrome.1.69i57j0j46i175i199l2j0l2j46i175i199j69i61.3070j0j7&sourceid=chrome&ie=UTF-8&tbs=lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk01Apx60ADAvbHJ2eDRuZx8CXqXnvw:1619592565483&rflfq=1&num=10&rldimm=9671340406063970100&lqi=CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w&ved=2ahUKEwjl2a68rKDwAhUEH7cAHRQJC-QQvS4wAHoECAsQHw&rlst=f#rlfi=hd:;si:9671340406063970100,l,CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w;mv:[[22.7680303,75.93087609999999],[22.727029599999998,75.8810728]];tbs:lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2">**Sica School**</a> student, with 🖥️**CS** as my optional subject.
+- I like 💻coding, and devloping new programs which can be of use to people.
+- Currently I am exploring the field of **Web Devlopment**😎.
+- I am looking forward to work with all **coding enthusiasts**.
+
+<hr>
+
+<h1 align="center">🏆 My Achievements 🏆</h1>
+
+<hr>
+
+- Cleared <a href="https://www.quora.com/How-can-I-pass-98-381-braindumps">Microsoft 98-381</a> exam. (<a href="Documents\Microsoft_Certified_Professional_Certificate_0.pdf">Certificate</a>, <a href="Documents\microsoft_certified_professional_transcript.pdf">Transcript</a>).
+
+<hr>
+
+<table width="100%" align="center">
+
+<tr>
+    <th colspan="3"><h1 align="center">My GitHub Stats</h1></th>
+</tr>
+<tr>
+    <td colspan="3"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"></p></td>
+</tr>
+<tr>
+    <td colspan="3"><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"></p></td>
+</tr>
+<tr>
+    <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Summary Card"></p></td>
+</tr>
+<tr>
+    <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p></td>
+    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Commits per day hour"></p></td>
+    <td><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits"></p></td>
+</tr>
+
+</table>
 
 <hr>
 
@@ -91,54 +134,8 @@
 
 <hr>
 
-<h1 align="center">👋About Myself👋</h1>
+<img height="120" alt="Thanks for visiting me gif" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <hr>
 
-- Hi🙋‍♂️, myself **Sam Varghese**, happy to have you here in my profile page🙏.
-- I am from 🌏<a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**India, MP, Indore**</a>
-- Presently I am a 🏫<a href="https://www.google.com/search?q=sica%20school&rlz=1C1CHBD_enIN950IN950&oq=sica+&aqs=chrome.1.69i57j0j46i175i199l2j0l2j46i175i199j69i61.3070j0j7&sourceid=chrome&ie=UTF-8&tbs=lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk01Apx60ADAvbHJ2eDRuZx8CXqXnvw:1619592565483&rflfq=1&num=10&rldimm=9671340406063970100&lqi=CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w&ved=2ahUKEwjl2a68rKDwAhUEH7cAHRQJC-QQvS4wAHoECAsQHw&rlst=f#rlfi=hd:;si:9671340406063970100,l,CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w;mv:[[22.7680303,75.93087609999999],[22.727029599999998,75.8810728]];tbs:lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2">**Sica School**</a> student, with 🖥️**CS** as my optional subject.
-- I like 💻coding, and devloping new programs which can be of use to people.
-- Currently I am exploring the field of **Web Devlopment**😎.
-- I am looking forward to work with all **coding enthusiasts**.
-
-<hr>
-
-<h1 align="center">🏆 My Achievements 🏆</h1>
-
-<hr>
-
-- Cleared <a href="https://www.quora.com/How-can-I-pass-98-381-braindumps">Microsoft 98-381</a> exam. (<a href="Documents\Microsoft_Certified_Professional_Certificate_0.pdf">Certificate</a>, <a href="Documents\microsoft_certified_professional_transcript.pdf">Transcript</a>).
-- _Comming Soon..._
-
-<hr>
-
-<table width="100%" align="center">
-
-<tr>
-    <th colspan="3"><h1 align="center">My GitHub Stats</h1></th>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical"></p></td>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical"></p></td>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg"></p></td>
-</tr>
-<tr>
-    <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg"></p></td>
-    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg"></p></td>
-    <td><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg"></p></td>
-</tr>
-
-</table>
-
-<hr>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-<hr>
-
-<p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400"></p>
+<p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400" alt="groot bye bye gif"></p>
