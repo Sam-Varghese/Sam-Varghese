@@ -138,3 +138,5 @@
 <p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400" alt="groot bye bye gif"></p>
 
 <hr>
+
+<img src="https://p.kindpng.com/picc/s/149-1499918_gold-divider-png-golden-border-design-png-transparent.png" width="100%" height="250">
