@@ -139,4 +139,4 @@
 
 <hr>
 
-<img src="https://p.kindpng.com/picc/s/149-1499918_gold-divider-png-golden-border-design-png-transparent.png" width="100%" height="250">
+<img src="https://www.tngenweb.org/lauderdale/flbar41.gif" width="100%" height="250">
