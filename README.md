@@ -56,6 +56,7 @@
 <hr>
 
 <table width="100%">
+
 <tr>
     <th colspan="3" ><h1 align="center" >🖥️Tech I Have Come Across🖥️</h1></th>
 </tr>
