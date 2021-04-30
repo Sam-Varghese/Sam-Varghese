@@ -1,4 +1,4 @@
-<p align="center"><img height="150" width="175" src="Documents/left.png"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"><img height="150" width="175" src="Documents/right.png"></p>
+<p align="center"><img height="150" width="175" src="Documents/left.png" alt="Left wing of Angel"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"><img height="150" width="175" src="Documents/right.png"></p>
 
 <hr>
 
@@ -40,10 +40,10 @@
     <td colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"><img height="150" width="150" src="Documents/right.png"></p></td>
+    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"><img height="150" width="150" src="Documents/right.png"></p></td>
 </tr>
 <tr>
     <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Summary Card"></p></td>
