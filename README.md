@@ -134,5 +134,3 @@
 <hr>
 
 <p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400" alt="groot bye bye gif"></p>
-
-<img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/fd4b7227deb50cda70aa674c1af67aee86b8a52f/left.png" alt="Image">
