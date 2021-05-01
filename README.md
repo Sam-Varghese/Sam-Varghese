@@ -19,7 +19,7 @@
 - Presently I am a 🏫<a href="https://www.google.com/search?q=sica%20school&rlz=1C1CHBD_enIN950IN950&oq=sica+&aqs=chrome.1.69i57j0j46i175i199l2j0l2j46i175i199j69i61.3070j0j7&sourceid=chrome&ie=UTF-8&tbs=lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk01Apx60ADAvbHJ2eDRuZx8CXqXnvw:1619592565483&rflfq=1&num=10&rldimm=9671340406063970100&lqi=CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w&ved=2ahUKEwjl2a68rKDwAhUEH7cAHRQJC-QQvS4wAHoECAsQHw&rlst=f#rlfi=hd:;si:9671340406063970100,l,CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w;mv:[[22.7680303,75.93087609999999],[22.727029599999998,75.8810728]];tbs:lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2">**Sica School**</a> student, with <img src="Assets/PC.gif" alt="PC emoji" width="35px">**CS** as my optional subject.
 - I like <img src="Assets/PC.gif" alt="PC emoji" width="35px">coding, and devloping new programs which can be of use to people.
 - Currently I am exploring the field of **Web Devlopment**<img src="Assets/hmm.gif" width="35px">.
-- I am looking forward to work with all **coding enthusiasts**<img src="Assets/Developer.gif" width="50px">.
+- I am looking forward to work with all **coding enthusiasts**<img src="Assets/Developer.gif" alt="Coder gif" width="50px">.
 
 <hr>
 
@@ -34,7 +34,7 @@
 <table width="100%">
 
 <tr>
-    <th colspan="3"><h1 align="center"><img src="Assets/Designer.gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" width="100px"></h1></th>
+    <th colspan="3"><h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="100px"></h1></th>
 </tr>
 <tr>
     <td colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
@@ -63,7 +63,7 @@
 <table width="100%" align="center">
 
 <tr>
-    <th colspan="3" ><h1 align="center" ><img src="Assets/Developer.gif" width="70px">Tech I Have Come Across<img src="Assets/Developer.gif" width="70px"></h1></th>
+    <th colspan="3" ><h1 align="center" ><img src="Assets/Developer.gif" alt="Coder gif" width="70px">Tech I Have Come Across<img src="Assets/Developer.gif" alt="Coder gif" width="70px"></h1></th>
 </tr>
 <tr>
     <th colspan="3"><h2 align="center">Programming Languages</h2></th>
@@ -128,6 +128,11 @@
 </tr>
 
 </table>
+
+<hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <hr>
 
