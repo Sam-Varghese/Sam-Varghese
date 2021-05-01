@@ -6,10 +6,6 @@
 
 <hr>
 
-<p align="center"><p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat gif" width="50%"</p>
-
-<hr>
-
 <h1 align="center"><img src="Assets/wave.gif" alt="Waving hanf gif" width="70px">About Myself<img src="Assets/wave.gif" alt="Waving hanf gif" width="70px"></h1>
 
 <hr>
@@ -128,11 +124,6 @@
 </tr>
 
 </table>
-
-<hr>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <hr>
 
