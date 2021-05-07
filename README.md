@@ -27,7 +27,9 @@
 
 <hr>
 
-<h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="100px"></h1>
+<details>
+
+<summary><h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="100px"></h1></summary>
 
 <hr>
 
@@ -55,13 +57,18 @@
 </tr>
 </table>
 
+</details>
+
+<hr>
+
+<details>
+
+<summary><h1 align="center" ><img src="Assets/Developer.gif" alt="Coder gif" width="70px">Tech I Have Come Across<img src="Assets/Developer.gif" alt="Coder gif" width="70px"></h1></summary>
+
 <hr>
 
 <table width="100%" align="center">
 
-<tr>
-    <th colspan="3" ><h1 align="center" ><img src="Assets/Developer.gif" alt="Coder gif" width="70px">Tech I Have Come Across<img src="Assets/Developer.gif" alt="Coder gif" width="70px"></h1></th>
-</tr>
 <tr>
     <th colspan="3"><h2 align="center">Programming Languages</h2></th>
 </tr>
@@ -125,6 +132,8 @@
 </tr>
 
 </table>
+
+</details>
 
 <hr>
 
