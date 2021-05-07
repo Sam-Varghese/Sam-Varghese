@@ -27,11 +27,12 @@
 
 <hr>
 
+<h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="100px"></h1>
+
+<hr>
+
 <table width="100%">
 
-<tr>
-    <th colspan="3"><h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="100px"></h1></th>
-</tr>
 <tr>
     <td colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
 </tr>
