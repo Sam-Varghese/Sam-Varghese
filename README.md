@@ -137,6 +137,25 @@
 
 <hr>
 
+<details>
+<summary><h1 align="center"><img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"> My Task List <img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"></h1></summary>
+
+- [x] Learn Python programming language
+- [x] Learn MySQL
+- [x] Learn Matplotlib
+- [x] Learn Pandas
+- [x] Learn Tkinter
+- [x] Qualify a Python programming exam
+- [x] Get into open source
+- [ ] Make notes of everything I have learnt
+- [ ] Learn HTML5
+- [ ] Learn CSS3
+- [ ] Learn JavaScript
+
+</details>
+
+<hr>
+
 <table align="center">
 <tr>
     <th colspan="3"><h1 align="center">Contact Through</h1></th>
@@ -146,27 +165,6 @@
     <td><p align="center"><a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p></td>
 </tr>
 </table>
-
-<hr>
-
-<details>
-<summary><h1 align="center"><img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"> Task List <img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"></h1></summary>
-
-- [X] Learn Python programming language
-- [X] Learn MySQL
-- [X] Learn Matplotlib
-- [X] Learn Pandas
-- [X] Learn Tkinter
-- [X] Qualify a Python programming exam
-- [X] Get into open source
-- [ ] Make notes of everything I have learnt
-- [ ] Learn HTML5
-- [ ] Learn CSS3
-- [ ] Learn JavaScript
-
-</details>
-
-</details>
 
 <hr>
 
