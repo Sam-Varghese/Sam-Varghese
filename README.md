@@ -19,7 +19,7 @@
 
 <hr>
 
-<h1 align="center"><img src="https://i.gifer.com/XqyT.gif" width="100px" > My Achievements <img src="https://i.gifer.com/XqyT.gif" width="100px" ></h1>
+<h1 align="center"><img src="https://i.gifer.com/XqyT.gif" width="100px" >My Achievements<img src="https://i.gifer.com/XqyT.gif" width="100px" ></h1>
 
 <hr>
 
