@@ -149,6 +149,27 @@
 
 <hr>
 
+<details>
+<summary><h1 align="center"><img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"> Task List <img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"></h1></summary>
+
+- [X] Learn Python programming language
+- [X] Learn MySQL
+- [X] Learn Matplotlib
+- [X] Learn Pandas
+- [X] Learn Tkinter
+- [X] Qualify a Python programming exam
+- [X] Get into open source
+- [ ] Make notes of everything I have learnt
+- [ ] Learn HTML5
+- [ ] Learn CSS3
+- [ ] Learn JavaScript
+
+</details>
+
+</details>
+
+<hr>
+
 <img height="120" alt="Thanks for visiting me gif" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <hr>
