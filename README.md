@@ -140,6 +140,8 @@
 <details>
 <summary><h1 align="center"><img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"> My Task List <img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"></h1></summary>
 
+<hr>
+
 - [x] Learn Python programming language
 - [x] Learn MySQL
 - [x] Learn Matplotlib
