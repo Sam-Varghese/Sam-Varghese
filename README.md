@@ -153,7 +153,7 @@
 - [ ] Make notes of everything I have learnt
 - [ ] Learn HTML5
 - [ ] Learn CSS3
-- [ ] Learn JavaScript
+- [x] Learn JavaScript Data Structures And Algorithms
 - [x] Clear a JavaScript Certification course.
 
 </details>
