@@ -154,6 +154,7 @@
 - [ ] Learn HTML5
 - [ ] Learn CSS3
 - [ ] Learn JavaScript
+- [x] Clear a JavaScript Certification course.
 
 </details>
 
