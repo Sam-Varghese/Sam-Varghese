@@ -151,7 +151,7 @@
 - [x] Qualify a Python programming exam
 - [x] Get into open source
 - [ ] Make notes of everything I have learnt
-- [ ] Learn HTML5
+- [x] Learn HTML5
 - [ ] Learn CSS3
 - [x] Learn JavaScript Data Structures And Algorithms
 - [x] Clear a JavaScript Certification course.
