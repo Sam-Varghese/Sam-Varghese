@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center"><img src="Documents/img2.png" alt="My profile picture" width="50%"></p>
+<p align="center"><img src="Documents/img3.png" alt="My profile picture" width="70%"></p>
 
 <hr>
 
