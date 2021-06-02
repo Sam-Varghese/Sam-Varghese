@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center"><img src="Documents/img4.png" alt="My profile picture" width="100%"></p>
+<p align="center"><img src="Documents/Capture.PNG" alt="My profile picture"></p>
 
 <hr>
 
@@ -42,12 +42,7 @@
 <tr>
     <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png" alt="Right wing of Angel"></p></td>
 </tr>
-<tr>
-    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Varghese&theme=radical" alt="Github streak's data"><img height="150" width="150" src="Documents/right.png" alt="Right wing of Angel"></p></td>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Summary Card"></p></td>
-</tr>
+
 <tr>
     <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p></td>
     <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Commits per day hour"></p></td>
@@ -68,72 +63,20 @@
 
 <hr>
 
-<table width="100%" align="center">
+<div align="center">
 
-<tr>
-    <th colspan="3"><h2 align="center">Programming Languages</h2></th>
-</tr>
-<tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python badge"></p></td>
-    <td><p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="JavaScript badge"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML badge"></p</td>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 badge"></p</td>
-</tr>
-<tr>
-    <th colspan="3"><h2 align="center">Databases</h2></th>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL badge"></p</td>
-</tr>
-<tr>
-    <th colspan="3"><h2 align="center">Frameworks</h2></th>
-</tr>
-<tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="Jupyter badge"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" ></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 badge"></p</td>
-</tr>
-<tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"  alt="Microsoft badge"></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" ></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" ></p</td>
-</tr>
-<tr>
-    <th colspan="3"><h2 align="center">Cloud</h2></th>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" ></p</td>
-</tr>
-<tr>
-    <th colspan="3"><h2 align="center">OS</h2></th>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" ></p</td>
-</tr>
-<tr>
-    <th colspan="3"><h2 align="center">IDE</h2></th>
-</tr>
-<tr>
-    <td colspan="3"><p align="center"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" ></p</td>
-</tr>
-<tr>
-    <th colspan="3"><h2 align="center">Office</h2></th>
-</tr>
-<tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" ></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" ></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" ></p</td>
-</tr>
-<tr>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" ></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" ></p</td>
-    <td><p align="center"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" ></p</td>
-</tr>
-
-</table>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python badge">   
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="JavaScript badge">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML badge"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 badge">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL badge">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="Jupyter badge">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" >
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 badge">
+<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"  alt="Microsoft badge">
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" >
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" >
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" >
+</div>
 </details>
 
 <hr>
@@ -145,9 +88,6 @@
 
 - [x] Learn Python programming language
 - [x] Learn MySQL
-- [x] Learn Matplotlib
-- [x] Learn Pandas
-- [x] Learn Tkinter
 - [x] Qualify a Python programming exam
 - [x] Get into open source
 - [ ] Make notes of everything I have learnt
@@ -173,10 +113,6 @@
 <hr>
 
 <img height="120" alt="Thanks for visiting me gif" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-<hr>
-
-<p align="center"><img src="https://media.tenor.com/images/2b9ed46dc66028c674cd540d1eb61a21/tenor.gif" height="400" width="400" alt="groot bye bye gif"></p>
 
 <hr>
 
