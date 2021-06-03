@@ -1,14 +1,14 @@
 <p align="center"><img height="150" width="175" src="Documents/left.png" alt="Left wing of Angel"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"><img height="150" width="175" src="Documents/right.png" alt="Right wing of Angel"></p>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <p align="center"><img src="Documents/Capture.PNG" alt="My profile picture"></p>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <h1 align="center"><img src="Assets/wave.gif" alt="Waving hanf gif" width="70px">About Myself<img src="Assets/wave.gif" alt="Waving hanf gif" width="70px"></h1>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 - Hi🙋‍♂️, myself **Sam Varghese**, happy to have you here in my profile page🙏.
 - I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**India, MP, Indore**</a>
@@ -16,22 +16,22 @@
 - I like <img src="Assets/PC.gif" alt="PC emoji" width="35px">coding, and devloping new programs which can be of use to people.
 - Currently I am exploring the field of **Web Devlopment**<img src="Assets/hmm.gif" width="35px">.
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <h1 align="center">🏆My Achievements🏆</h1>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 - Cleared <a href="https://www.quora.com/How-can-I-pass-98-381-braindumps">Microsoft 98-381</a> exam. (<a href="Documents\Microsoft_Certified_Professional_Certificate_0.pdf">Certificate</a>, <a href="Documents\microsoft_certified_professional_transcript.pdf">Transcript</a>).
 - Cleared <a href="https://www.freecodecamp.org/certification/fccc78dde92-be81-46cf-a740-573ddfe0ee96/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> certification course.
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <details>
 
 <summary><h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="100px"></h1></summary>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <table width="100%">
 
@@ -54,13 +54,13 @@
 
 </details>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <details>
 
 <summary><h1 align="center" ><img src="Assets/Developer.gif" alt="Coder gif" width="70px">Tech I Have Come Across<img src="Assets/Developer.gif" alt="Coder gif" width="70px"></h1></summary>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align="center">
 
@@ -78,12 +78,12 @@
 </div>
 </details>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <details>
 <summary><h1 align="center"><img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"> My Task List <img src="https://media.tenor.com/images/fb5e8cce85e37b71ce4d67aadbfed6ea/tenor.gif" width="70px"></h1></summary>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 - [x] Learn Python programming language
 - [x] Learn MySQL
@@ -97,7 +97,7 @@
 
 </details>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <table align="center">
 <tr>
@@ -109,10 +109,10 @@
 </tr>
 </table>
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <img height="120" alt="Thanks for visiting me gif" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<hr>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <img src="https://www.tngenweb.org/lauderdale/flbar41.gif" width="100%" height="250">
