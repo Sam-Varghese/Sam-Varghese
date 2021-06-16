@@ -97,14 +97,13 @@
 
 - [x] Learn Python programming language
 - [x] Learn MySQL
-- [x] Qualify a Python programming exam
 - [x] Get into open source
 - [ ] Make notes of everything I have learnt
 - [x] Learn HTML5
-- [ ] Learn CSS3
+- [x] Learn CSS3
 - [x] Learn JavaScript Data Structures And Algorithms
-- [x] Clear a JavaScript Certification course.
-
+- [ ] Learn NodeJs
+  
 </details>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
