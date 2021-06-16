@@ -36,19 +36,19 @@
 <table width="100%">
 
 <tr>
-    <td colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
+    <td valign="middle" colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png" alt="Right wing of Angel"></p></td>
+    <td valign="middle" colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png" alt="Right wing of Angel"></p></td>
 </tr>
 
 <tr>
-    <td><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p></td>
-    <td><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Commits per day hour"></p></td>
-    <td><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits"></p></td>
+    <td valign="middle"><p align="left"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p></td>
+    <td valign="middle"><p align="center"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Commits per day hour"></p></td>
+    <td valign="middle"><p align="right"><img src="https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits"></p></td>
 </tr>
 <tr>
-    <td colspan="3"><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Sam-Varghese&theme=react-dark" alt="Activity Graph"></p></td>
+    <td valign="middle" colspan="3"><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Sam-Varghese&theme=react-dark" alt="Activity Graph"></p></td>
 </tr>
 </table>
 
@@ -113,9 +113,9 @@
     <th colspan="3"><h1 align="center">Contact Through</h1></th>
 </tr>
 <tr>
-    <td><p align="center"><a href="mailto:sam.varghese.sica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p></td>
-    <td><p align="center"><a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p></td>
-    <td><p align="center"><a href="https://www.facebook.com/SamVargheseSica"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></p></td>
+    <td valign="middle"><p align="center"><a href="mailto:sam.varghese.sica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p></td>
+    <td valign="middle"><p align="center"><a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p></td>
+    <td valign="middle"><p align="center"><a href="https://www.facebook.com/SamVargheseSica"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></p></td>
 </tr>
 </table>
 
