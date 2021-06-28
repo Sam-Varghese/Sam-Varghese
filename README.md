@@ -24,6 +24,8 @@
 
 - Cleared <a href="https://www.quora.com/How-can-I-pass-98-381-braindumps">Microsoft 98-381</a> exam. (<a href="Documents\Microsoft_Certified_Professional_Certificate_0.pdf">Certificate</a>, <a href="Documents\microsoft_certified_professional_transcript.pdf">Transcript</a>).
 - Cleared <a href="https://www.freecodecamp.org/certification/fccc78dde92-be81-46cf-a740-573ddfe0ee96/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> certification course.
+- Got my name among the [top 0.74% at Stack Overflow](Documents/SOWeek.jpeg)
+- Got my name among the [top 2% at Stack Overflow](Documents/SOMonth.PNG)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
