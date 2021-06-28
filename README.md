@@ -14,7 +14,7 @@
 - I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**India, MP, Indore**</a>
 - Presently I am a 🏫<a href="https://www.google.com/search?q=sica%20school&rlz=1C1CHBD_enIN950IN950&oq=sica+&aqs=chrome.1.69i57j0j46i175i199l2j0l2j46i175i199j69i61.3070j0j7&sourceid=chrome&ie=UTF-8&tbs=lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk01Apx60ADAvbHJ2eDRuZx8CXqXnvw:1619592565483&rflfq=1&num=10&rldimm=9671340406063970100&lqi=CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w&ved=2ahUKEwjl2a68rKDwAhUEH7cAHRQJC-QQvS4wAHoECAsQHw&rlst=f#rlfi=hd:;si:9671340406063970100,l,CgtzaWNhIHNjaG9vbFoaCgtzaWNhIHNjaG9vbCILc2ljYSBzY2hvb2ySAQZzY2hvb2w;mv:[[22.7680303,75.93087609999999],[22.727029599999998,75.8810728]];tbs:lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2">**Sica School**</a> student, with <img src="Assets/PC.gif" alt="PC emoji" width="35px">**CS** as my optional subject.
 - I like <img src="Assets/PC.gif" alt="PC emoji" width="35px">coding, and devloping new programs which can be of use to people.
-- Currently I am working at Adsali Technologies to gain some experience of software development.<img src="Assets/Developer.gif" width="35px">.
+- Currently I am working at Adsali Technologies to gain some experience and knowledge related to software development.<img src="Assets/Developer.gif" width="35px">.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
