@@ -1,4 +1,4 @@
-<p align="center"><img height="150" width="175" src="Documents/left.png" alt="Left wing of Angel"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"><img height="150" width="175" src="Documents/right.png" alt="Right wing of Angel"></p>
+<p align="center"><img height="180" width="180" src="Documents/lw1.gif" alt="Left wing of Angel"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif"><img height="180" width="180" src="Documents/rw1.gif" alt="Right wing of Angel"></p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -67,6 +67,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python badge">   
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="JavaScript badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML badge"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 badge">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL badge">
