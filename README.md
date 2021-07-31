@@ -118,13 +118,13 @@
 
 <table align="center">
 <tr>
-    <th colspan="3"><h1 align="center">Contact Through</h1></th>
+    <th colspan="4"><h1 align="center">Contact Through</h1></th>
 </tr>
 <tr>
     <td valign="middle"><a href="mailto:sam.varghese.sica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
     <td valign="middle"><a href="https://www.linkedin.com/in/sam-varghese-1a7701209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     <td valign="middle"><a href="https://www.facebook.com/SamVargheseSica"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></td>
-    <td valign="middle"><a href="https://twitter.com/SamVarg05580035"><img src="https://img.shields.io/badge/Twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white"></a></td>
+    <td valign="middle"><a href="https://twitter.com/SamVarg05580035"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></td>
 </tr>
 </table>
 
