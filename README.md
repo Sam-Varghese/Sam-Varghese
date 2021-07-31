@@ -126,6 +126,7 @@
     <td valign="middle"><a href="https://www.facebook.com/SamVargheseSica"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></td>
     <td valign="middle"><a href="https://twitter.com/SamVarg05580035"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></td>
     <td valign="middle"><a href="https://stackoverflow.com/story/samvarghese"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a></td>
+    <td valign="middle"><a href="https://discord.gg/jr8AYukv3H"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a></td>
 </tr>
 </table>
 
