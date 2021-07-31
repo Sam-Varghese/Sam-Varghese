@@ -10,7 +10,7 @@
 
 - Hi🙋‍♂️, myself **Sam Varghese**, happy to have you here in my profile page🙏.
 - I am an 18 year old programming enthusiast 😇.
-- I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**India, MP, Indore**</a>
+- I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**Indore, MP, India**</a>
 - I like <img src="Assets/PC.gif" alt="PC emoji" width="35px">coding, and developing new programs which can be of use to people.
 - Currently I am working at Adsali Technologies to gain some experience and knowledge related to software development.<img src="Assets/Developer.gif" width="35px">.
 
