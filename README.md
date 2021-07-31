@@ -118,7 +118,7 @@
 
 <table align="center">
 <tr>
-    <th colspan="5"><h1 align="center">Connect Through</h1></th>
+    <th colspan="6"><h1 align="center">Connect Through</h1></th>
 </tr>
 <tr>
     <td valign="middle"><a href="mailto:sam.varghese.sica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
