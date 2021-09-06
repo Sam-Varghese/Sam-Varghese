@@ -74,7 +74,7 @@
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=0000FF)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0000FF)
+![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/Package-Mathjs-informational?style=flat&logo=math-dot-js&logoColor=white&color=0000FF)
