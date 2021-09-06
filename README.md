@@ -2,17 +2,13 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<p align="center"><img src="Documents/Capture.PNG" alt="My profile picture"></p>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-<h1 align="center"><img src="Assets/wave.gif" alt="Waving hanf gif" width="70px">About Myself<img src="Assets/wave.gif" alt="Waving hanf gif" width="70px"></h1>
+<h1 align="center"><img src="Assets/wave.gif" alt="Waving hand gif" width="70px">About Myself<img src="Assets/wave.gif" alt="Waving hand gif" width="70px"></h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 - Hi🙋‍♂️, myself **Sam Varghese**, happy to have you here in my profile page🙏.
 - I am an 18 year old programming enthusiast 😇.
-- I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**India, MP, Indore**</a>
+- I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**Indore, MP, India**</a>
 - I like <img src="Assets/PC.gif" alt="PC emoji" width="35px">coding, and developing new programs which can be of use to people.
 - Currently I am working at Adsali Technologies to gain some experience and knowledge related to software development.<img src="Assets/Developer.gif" width="35px">.
 
@@ -111,19 +107,22 @@
 - [x] Learn CSS3
 - [x] Learn JavaScript Data Structures And Algorithms
 - [ ] Learn NodeJs
-  
+
 </details>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <table align="center">
 <tr>
-    <th colspan="3"><h1 align="center">Contact Through</h1></th>
+    <th colspan="6"><h1 align="center">Connect Through</h1></th>
 </tr>
 <tr>
     <td valign="middle"><a href="mailto:sam.varghese.sica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
     <td valign="middle"><a href="https://www.linkedin.com/in/sam-varghese-1a7701209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     <td valign="middle"><a href="https://www.facebook.com/SamVargheseSica"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></td>
+    <td valign="middle"><a href="https://twitter.com/SamVarg05580035"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></td>
+    <td valign="middle"><a href="https://stackoverflow.com/story/samvarghese"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a></td>
+    <td valign="middle"><a href="https://discord.gg/qW9CGayxMf"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a></td>
 </tr>
 </table>
 
