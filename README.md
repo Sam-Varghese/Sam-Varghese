@@ -8,9 +8,9 @@
 
 - Hi🙋‍♂️, myself **Sam Varghese**, happy to have you here in my profile page🙏.
 - I am an 18 year old programming enthusiast 😇.
+- Currently I am studying MBATech (MBA+B Tech == MBATech 😊) in Computer Engineering from [NMIMS, Indore](https://nmims.edu/).
 - I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**Indore, MP, India**</a>
 - I like <img src="Assets/PC.gif" alt="PC emoji" width="35px">coding, and developing new programs which can be of use to people.
-- Currently I am working at Adsali Technologies to gain some experience and knowledge related to software development.<img src="Assets/Developer.gif" width="35px">.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -62,32 +62,32 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Package-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Package-Flask-informational?style=flat&logo=flask&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Package-Mathjs-informational?style=flat&logo=math-dot-js&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node-dot-js&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder%20ide&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Framework-Reveal.js-informational?style=flat&logo=reveal-dot-js&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Browser-Google-informational?style=flat&logo=google&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=0000FF&color=0000FF)
-![](https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=0000FF&color=0000FF)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Package-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Package-Flask-informational?style=flat&logo=flask&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Package-Mathjs-informational?style=flat&logo=math-dot-js&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node-dot-js&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder%20ide&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Framework-Reveal.js-informational?style=flat&logo=reveal-dot-js&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Browser-Google-informational?style=flat&logo=google&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=red&color=0000FF)
+![](https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=red&color=0000FF)
 
 </div>
 </details>
