@@ -103,6 +103,7 @@
 
 - [x] Learn Python programming language
 - [x] Learn MySQL
+- [ ] Work with MongoDB
 - [x] Get into open source
 - [ ] Make notes of everything I have learnt
 - [x] Learn HTML5
