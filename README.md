@@ -62,32 +62,32 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Package-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Package-Flask-informational?style=flat&logo=flask&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Package-Mathjs-informational?style=flat&logo=math-dot-js&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node-dot-js&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder%20ide&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Framework-Reveal.js-informational?style=flat&logo=reveal-dot-js&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Browser-Google-informational?style=flat&logo=google&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=red&color=0000FF" height="25vh">
-<img src="https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=red&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Package-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Package-Flask-informational?style=flat&logo=flask&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Package-Mathjs-informational?style=flat&logo=math-dot-js&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node-dot-js&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder%20ide&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Framework-Reveal.js-informational?style=flat&logo=reveal-dot-js&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Browser-Google-informational?style=flat&logo=google&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=black&color=0000FF" height="25vh">
+<img src="https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=black&color=0000FF" height="25vh">
 
 </div>
 </details>
