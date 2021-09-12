@@ -2,7 +2,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<h1 align="center"><img src="Assets/wave.gif" alt="Waving hand gif" width="5%">About Myself<img src="Assets/wave.gif" alt="Waving hand gif" width="5%"></h1>
+<h1 align="center"><img src="Assets/wave.gif" alt="Waving hand gif" width="10%">About Myself<img src="Assets/wave.gif" alt="Waving hand gif" width="10%"></h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -29,7 +29,7 @@
 
 <details>
 
-<summary><h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="100px">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="100px"></h1></summary>
+<summary><h1 align="center"><img src="Assets/Designer.gif" alt="Coder gif" width="10%">My GitHub Stats<img src="Assets/Designer.gif" alt="Coder gif" width="10%"></h1></summary>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -58,38 +58,38 @@
 
 <details>
 
-<summary><h1 align="center" ><img src="Assets/Developer.gif" alt="Coder gif" width="70px">Tech I Have Come Across<img src="Assets/Developer.gif" alt="Coder gif" width="70px"></h1></summary>
+<summary><h1 align="center" ><img src="Assets/Developer.gif" alt="Coder gif" width="10%">Tech I Have Come Across<img src="Assets/Developer.gif" alt="Coder gif" width="10%"></h1></summary>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align="center">
 
-<a href="www.Python.com"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Pandas.com"><img src="https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Package-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Flask.com"><img src="https://img.shields.io/badge/Package-Flask-informational?style=flat&logo=flask&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Powershell.com"><img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.JavaScript.com"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.HTML5.com"><img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.CSS3.com"><img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.MySQL.com"><img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Jupyter.com"><img src="https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Markdown.com"><img src="https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Windows_11.com"><img src="https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Git.com"><img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.GitHub.com"><img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Mathjs.com"><img src="https://img.shields.io/badge/Package-Mathjs-informational?style=flat&logo=math-dot-js&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Nodejs.com"><img src="https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node-dot-js&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.MongoDB.com"><img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Canva.com"><img src="https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Spyder.com"><img src="https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder%20ide&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Reveal.com"><img src="https://img.shields.io/badge/Framework-Reveal.js-informational?style=flat&logo=reveal-dot-js&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Brave.com"><img src="https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Google.com"><img src="https://img.shields.io/badge/Browser-Google-informational?style=flat&logo=google&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.Excel.com"><img src="https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=0000FF&color=0000FF" height="25vh"></a>
-<a href="www.GoogleSheets.com"><img src="https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=0000FF&color=0000FF" height="25vh"></a>
+<a href="www.Python.com"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Pandas.com"><img src="https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=0000FF&color=0000FF"></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=0000FF&color=0000FF"></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Package-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Flask.com"><img src="https://img.shields.io/badge/Package-Flask-informational?style=flat&logo=flask&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Powershell.com"><img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=0000FF&color=0000FF"></a>
+<a href="www.JavaScript.com"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=0000FF&color=0000FF"></a>
+<a href="www.HTML5.com"><img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=0000FF&color=0000FF"></a>
+<a href="www.CSS3.com"><img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=0000FF&color=0000FF"></a>
+<a href="www.MySQL.com"><img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Jupyter.com"><img src="https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Markdown.com"><img src="https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Windows_11.com"><img src="https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Git.com"><img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=0000FF&color=0000FF"></a>
+<a href="www.GitHub.com"><img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Mathjs.com"><img src="https://img.shields.io/badge/Package-Mathjs-informational?style=flat&logo=math-dot-js&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Nodejs.com"><img src="https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node-dot-js&logoColor=0000FF&color=0000FF"></a>
+<a href="www.MongoDB.com"><img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Canva.com"><img src="https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=canva&logoColor=0000FF&color=0000FF"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Spyder.com"><img src="https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder%20ide&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Reveal.com"><img src="https://img.shields.io/badge/Framework-Reveal.js-informational?style=flat&logo=reveal-dot-js&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Brave.com"><img src="https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Google.com"><img src="https://img.shields.io/badge/Browser-Google-informational?style=flat&logo=google&logoColor=0000FF&color=0000FF"></a>
+<a href="www.Excel.com"><img src="https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=0000FF&color=0000FF"></a>
+<a href="www.GoogleSheets.com"><img src="https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=0000FF&color=0000FF"></a>
 
 </div>
 </details>
