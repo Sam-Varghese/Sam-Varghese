@@ -39,7 +39,7 @@
     <td valign="middle" colspan="3"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sam-Varghese&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN SECRET&column=5&row=1" alt="Github readme stats"></p></td>
 </tr>
 <tr>
-    <td valign="middle" colspan="3"><p align="center"><img height="150" width="150" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats"><img height="150" width="150" src="Documents/right.png" alt="Right wing of Angel"></p></td>
+    <td valign="middle" colspan="3"><p align="center"><img width="20%" src="Documents/left.png" alt="Left wing of Angel"><img src="https://github-readme-stats.vercel.app/api?username=Sam-Varghese&show_icons=true&theme=radical" alt="Github readme stats" width="33%"><img width="20%" src="Documents/right.png" alt="Right wing of Angel"></p></td>
 </tr>
 
 <tr>
