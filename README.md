@@ -1,4 +1,7 @@
 <p align="center"><img width="33%" src="Documents/lw1.gif" alt="Left wing of Angel"><img src="https://www.gifservice.fr/img/gif-vignette-large/361cb6b76db214939ad97a8d135e744b/129786-sam-s-masculine-uk-usa-irl-aus-nz-first-name-signature.gif" alt="SAM name gif" width="33%"><img src="Documents/rw1.gif" alt="Right wing of Angel" width="33%"></p>
+<p align="center">
+<img src = "Documents/Sam.png">
+</p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -139,5 +142,3 @@
 <img height="120" alt="Thanks for visiting me gif" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-<img src="https://www.tngenweb.org/lauderdale/flbar41.gif" width="100%" height="250">
