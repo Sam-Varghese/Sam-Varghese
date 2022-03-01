@@ -9,8 +9,7 @@
 - Hi🙋‍♂️, myself **Sam Varghese**, happy to have you here in my profile page🙏.
 - I am an 18 year old programming enthusiast 😇.
 - Currently I am pursuing my MBATech (MBA+B Tech == MBATech 😊) in Computer Engineering from [NMIMS, Indore](https://nmims.edu/).
-- Currently I am also struggling hard to learn [React js](https://reactjs.org/) 😫.
-- Referring [these notes](https://www.taniarascia.com/) to increase my tech stacks 🥸📚
+- Currently I am passionate about learning AI/ML
 - I am from <img src="Assets/Earth.gif" alt="Globe gif" width="29px"><a href="https://goo.gl/maps/F1N2pFFApSQ8B9Jd9">**Indore, MP, India**</a>
 - I like <img src="Assets/PC.gif" alt="PC emoji" width="35px">coding, and developing new programs which could see the light of the day 🙂.
 
@@ -68,6 +67,7 @@
 <a href="www.Python.com"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=0000FF&color=0000FF"></a>
 <a href="www.Pandas.com"><img src="https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=0000FF&color=0000FF"></a>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=0000FF&color=0000FF"></a>
+<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Package-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=0000FF&color=0000FF"></a>
 <a href="www.Flask.com"><img src="https://img.shields.io/badge/Package-Flask-informational?style=flat&logo=flask&logoColor=0000FF&color=0000FF"></a>
 <a href="www.Powershell.com"><img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=0000FF&color=0000FF"></a>
@@ -104,15 +104,15 @@
 
 - [x] Learn Python programming language
 - [x] Learn MySQL
-- [ ] Work with MongoDB
+- [X] Work with MongoDB
 - [x] Get into open source
 - [ ] Make notes of everything I have learnt
 - [x] Learn HTML5
 - [x] Learn CSS3
 - [x] Learn JavaScript Data Structures And Algorithms
 - [x] Learn NodeJs
-- [ ] Learn ReactJS
-- [ ] Learn many more technologies after ReactJS 🥸
+- [X] Learn ReactJS
+- [ ] Explore AI/ ML
 
 “Live as if you were to die tomorrow. Learn as if you were to live forever.” – <i>Mahatma Gandhi</i>
 
